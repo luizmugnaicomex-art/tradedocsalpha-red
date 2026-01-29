@@ -1,0 +1,5 @@
+{
+  "name": "Trade Docs",
+  "description": "Upload your CI, PL, and BL to automatically extract key information.",
+  "requestFramePermissions": []
+}
